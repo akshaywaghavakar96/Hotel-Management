@@ -1,0 +1,47 @@
+## Problem Statement for Hotel Revenue Management Dashboard
+
+### Overview
+
+The hotel industry is highly competitive and dynamic, with revenue management being a critical aspect for optimizing profitability. To gain a competitive edge, it is essential to analyze revenue trends, understand the performance of different categories, and recognize top-performing properties. A comprehensive and interactive Power BI dashboard can provide actionable insights by visualizing key performance indicators (KPIs) and facilitating data-driven decision-making.
+
+### Objectives
+
+1. **Trend Analysis by Category**:
+   - **Objective**: Analyze revenue trends across different categories (e.g., room types, services, and geographical locations).
+   - **Details**: Provide insights into Week-over-Week (WoW) changes and percentage variations, with tooltips highlighting significant shifts.
+
+2. **Revenue Breakdown**:
+   - **Objective**: Present a clear and engaging visualization of the revenue breakdown by category.
+   - **Details**: Use a pie chart to depict the distribution of revenue, making it easy to understand which categories contribute the most.
+
+3. **WoW Change Analysis**:
+   - **Objective**: Dive into the WoW changes within each revenue category.
+   - **Details**: Implement interactive tooltips that reveal detailed WoW changes and percentages, highlighting areas of significant growth or decline.
+
+4. **Top-Performing Properties**:
+   - **Objective**: Recognize and highlight the properties that generate the highest revenue.
+   - **Details**: Identify top-performing properties and showcase their contribution to overall revenue, using colors and tooltips to enhance storytelling.
+
+5. **Realization % and ADR by Channel**:
+   - **Objective**: Visualize the realization percentage and Average Daily Rate (ADR) by booking channel.
+   - **Details**: Create a dynamic line-column chart to display the realization % alongside ADR, providing insights into channel performance.
+
+6. **WoW Trends for ADR, Occupancy, and RevPAR**:
+   - **Objective**: Track and analyze the WoW trends for key performance metrics: ADR, Occupancy, and Revenue per Available Room (RevPAR).
+   - **Details**: Use line charts to depict these trends, enabling the identification of patterns and potential areas for improvement.
+
+### Challenges
+
+- **Data Integration**: Integrate data from various sources to ensure comprehensive and accurate analysis.
+- **Interactive Elements**: Design interactive tooltips and dynamic charts that provide detailed insights without overwhelming the user.
+- **Visualization Clarity**: Ensure that visualizations are clear, intuitive, and effectively convey the necessary information.
+- **Performance Recognition**: Develop criteria and methods to accurately recognize top-performing properties based on revenue data.
+
+### Expected Outcomes
+
+- **Enhanced Decision-Making**: Empower hotel management with detailed insights into revenue trends and category performance.
+- **Performance Improvement**: Identify opportunities for revenue growth and areas needing attention through detailed WoW analysis.
+- **Recognition of Excellence**: Highlight top-performing properties, fostering a culture of recognition and motivation.
+- **Optimized Channel Management**: Provide clarity on channel performance, aiding in the optimization of marketing and distribution strategies.
+
+By implementing this Power BI dashboard, hotel management can achieve a deeper understanding of their revenue dynamics, make informed decisions, and ultimately enhance overall profitability.
